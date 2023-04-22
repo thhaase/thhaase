@@ -20,5 +20,3 @@
 [Youtube](https://www.youtube.com/@thhaase-soz)<br />
 [Twitter](https://twitter.com/thhaase_)<br />
 
--------
-
