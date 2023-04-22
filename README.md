@@ -5,8 +5,6 @@
   ![Orion Nebula](resources/Orionnebel_2.jpeg)
  <!--  ![Bild nicht gefunden: my-best-picture-of-the-orion-nebula.svg](resources/my-best-picture-of-the-orion-nebula.svg "Bild nicht gefunden: my-best-picture-of-the-orion-nebula.svg") -->
 
--------
-
 ### What I do:
 - Currently studying Social Science at the JLU Gießen
 
