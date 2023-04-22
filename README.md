@@ -5,6 +5,8 @@
 
 - I like boardgames, stargazing and tinkering with software
 -------
+![Orion Nebula](Orionnebel_2.jpeg)
+-------
 ### You can find me here:
 [Spotify](https://open.spotify.com/user/kvqz88xd4goy62kojjy507veu)<br />
 [Mastodon](https://social.tchncs.de/@thhaase)<br />
