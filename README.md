@@ -3,7 +3,7 @@
 # Hi! Welcome to my Github page :)
 
   ![Orion Nebula](resources/Orionnebel_2.jpeg)
-  ![Bild nicht gefunden: my-best-picture-of-the-orion-nebula.svg](resources/my-best-picture-of-the-orion-nebula.svg "Bild nicht gefunden: my-best-picture-of-the-orion-nebula.svg")
+ <!--  ![Bild nicht gefunden: my-best-picture-of-the-orion-nebula.svg](resources/my-best-picture-of-the-orion-nebula.svg "Bild nicht gefunden: my-best-picture-of-the-orion-nebula.svg") -->
 
 -------
 
