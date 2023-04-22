@@ -1,5 +1,5 @@
 # Hi, Im Thomas
-![Orion Nebula](Orionnebel_2.png)
+![Orion Nebula](Orionnebel_2.jpeg)
 -------
 - currently studying Social Science at the JLU Gießen.
 
