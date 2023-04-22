@@ -1,16 +1,21 @@
-# Hi, Im Thomas
-![Orion Nebula](Orionnebel_2.jpeg)
+
+  
+# Hi, welcome to my Github page :)
+
+  ![Orion Nebula](Orionnebel_2.jpeg)
+<sup> [so far my best picture of the orionnebula] </sup>
+
 -------
+
 - currently studying Social Science at the JLU Gießen.
 
 - I like boardgames, stargazing and tinkering with software
--------
-![Orion Nebula](Orionnebel_2.jpeg)
 -------
 ### You can find me here:
 [Spotify](https://open.spotify.com/user/kvqz88xd4goy62kojjy507veu)<br />
 [Mastodon](https://social.tchncs.de/@thhaase)<br />
 [Youtube](https://www.youtube.com/@thhaase-soz)<br />
 [Twitter](https://twitter.com/thhaase_)<br />
+
 -------
 
