@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, Im Thomas
+-------
+- currently studying Social Science at the JLU Gießen.
 
-<!--
-**thhaase/thhaase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I like boardgames, stargazing and tinkering with software
+-------
+### You can find me here:
+[Spotify](https://open.spotify.com/user/kvqz88xd4goy62kojjy507veu)<br />
+[Mastodon](https://social.tchncs.de/@thhaase)<br />
+[Youtube](https://www.youtube.com/@thhaase-soz)<br />
+[Twitter](https://twitter.com/thhaase_)<br />
+-------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
