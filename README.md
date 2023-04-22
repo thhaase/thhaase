@@ -7,7 +7,7 @@
 
 -------
 
-- currently studying Social Science at the JLU Gießen.
+- Currently studying Social Science at the JLU Gießen.
 
 - I like boardgames, stargazing and tinkering with software
 -------
