@@ -15,8 +15,5 @@
 -------
 
 ### You can find me here:
-[Spotify](https://open.spotify.com/user/kvqz88xd4goy62kojjy507veu)<br />
-[Mastodon](https://social.tchncs.de/@thhaase)<br />
-[Youtube](https://www.youtube.com/@thhaase-soz)<br />
-[Twitter](https://twitter.com/thhaase_)<br />
+[Spotify](https://open.spotify.com/user/kvqz88xd4goy62kojjy507veu) | [Youtube](https://www.youtube.com/@thhaase-soz) | [Mastodon](https://social.tchncs.de/@thhaase) | [Twitter](https://twitter.com/thhaase_)
 
