@@ -13,5 +13,4 @@
 -------
 
 ### You can find me here:
-[Spotify](https://open.spotify.com/user/kvqz88xd4goy62kojjy507veu) | [Youtube](https://www.youtube.com/@thhaase-soz) | [Mastodon](https://social.tchncs.de/@thhaase) | [Twitter](https://twitter.com/thhaase_)
-
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kvqz88xd4goy62kojjy507veu)  [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://social.tchncs.de/@thhaase) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@thhaase-soz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thhaase_)
