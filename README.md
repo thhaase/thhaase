@@ -8,7 +8,7 @@
 ### What I do:
 - Currently studying Social Science at the JLU Gießen
 
-- I like boardgames, stargazing and tinkering with software
+- I like boardgames, stargazing and acquireing new IT-/statistical skills
 
 -------
 
