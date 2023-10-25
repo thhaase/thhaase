@@ -2,7 +2,7 @@
   
 # Hi! Welcome to my Github page :)
 
-  ![Mond](resources/moon_banner.jpg)
+  ![Mond](resources/wasserkuppe_moon_banner.jpg)
  <!--  ![Bild nicht gefunden: my-best-picture-of-the-orion-nebula.svg](resources/my-best-picture-of-the-orion-nebula.svg "Bild nicht gefunden: my-best-picture-of-the-orion-nebula.svg") -->
 
 ### What I do:
