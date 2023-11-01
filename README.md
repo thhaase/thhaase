@@ -7,7 +7,12 @@
 
 ### What I do:
 - Currently studying Social Science at the JLU Gießen
-- amateur astrophotography noob  
+
+I'm enthusiastic about:
+- R
+- Statistics
+- Sociological Theory
+- amateur astronomy/astrophotography  
 -------
 
 ### What I use:
