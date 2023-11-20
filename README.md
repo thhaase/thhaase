@@ -11,7 +11,6 @@
 I'm enthusiastic about:
 - R
 - Statistics
-- Sociological Theory
 - amateur astronomy/astrophotography  
 -------
 
