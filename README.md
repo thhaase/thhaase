@@ -16,3 +16,5 @@
 - Markdown to Latex [Templates for Zettlr](https://github.com/thhaase/my_Zettlr_templates)
 
 
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thhaase&layout=compact)
