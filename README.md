@@ -7,7 +7,7 @@
 ## R
 - R-Shiny Netflix History [Dashboard](https://github.com/thhaase/Netflix_History_Dashboard)
   - Clientside Rendering [Preview](https://thhaase.github.io/R_Clientside_Shiny_Netflix_History/) (loads a long time but hosting is free for me)
-- Basic Scraping and Textanalysis of Letterboxed Comments (https://github.com/thhaase/R_Letterboxed)
+- [Basic Scraping and Textanalysis of Letterboxed Comments](https://github.com/thhaase/R_Letterboxed)
 
 ## Quarto
 - Quarto [Homepage(+Blog)](https://github.com/thhaase/Homepage) with custom CSS; [Hosted Website](https://www.thhaase.de)
