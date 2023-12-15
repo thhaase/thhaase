@@ -9,8 +9,8 @@
   - Clientside Rendering [Preview Link](https://thhaase.github.io/R_Clientside_Shiny_Netflix_History/) (loads a long time but hosting is free for me)
  
 ## Quarto
-- [My Quarto-Website Homepage + Blog with custom CSS](https://github.com/thhaase/Homepage)
+- Quarto Homepage(+Blog) with custom CSS [Repository](https://github.com/thhaase/Homepage); [Website](https://www.thhaase.de)
 
 ## Pandoc
-- [My Markdown to Latex Templates for Zettlr](https://github.com/thhaase/my_Zettlr_templates)
+- [Markdown $\rightarrow$ Latex] Templates for Zettlr [Repository](https://github.com/thhaase/my_Zettlr_templates)
 
