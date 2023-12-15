@@ -17,4 +17,4 @@
 
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thhaase&layout=compact&hide=javascript,html,lua)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thhaase&layout=compact&hide=javascript,html,lua,css)
