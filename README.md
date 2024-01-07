@@ -21,4 +21,4 @@
 
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thhaase&layout=compact&hide=javascript,html,lua,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thhaase&layout=compact&hide=javascript,html,lua,css&exclude_repo=.vimrc)
