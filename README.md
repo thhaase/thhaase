@@ -21,7 +21,8 @@
   - 📊 Mini-Survey Dashboard (I didn't do the Survey) [[Repository]](https://github.com/thhaase/kiana_interactive_quarto_dashboard) [[Preview]](https://thhaase.github.io/kiana_interactive_quarto_dashboard/)
 
 
-## Pandoc
+## Latex and Pandoc
+- 📄 Latex Template I use for my Assignments at Uni
 - 📃 Zettlr Template LatexPDF [[Repository]](https://github.com/thhaase/my_Zettlr_templates)
 
 
