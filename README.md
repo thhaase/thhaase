@@ -22,7 +22,7 @@
 
 
 ## Latex and Pandoc
-- 📄 Latex Template I use for my Assignments at Uni
+- 📄 Latex Template I use for my Assignments at Uni [[Repository]](https://github.com/thhaase/Latex-Template)
 - 📃 Zettlr Template LatexPDF [[Repository]](https://github.com/thhaase/my_Zettlr_templates)
 
 
