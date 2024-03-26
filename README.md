@@ -15,11 +15,13 @@
 
 ## Quarto
 - 💻️ Quarto Homepage [[Repository]](https://github.com/thhaase/Homepage) [[Preview]](https://www.thhaase.de)
-- 📝 Tutorialtasks for Intro-Statistics during Illness as Tutor [[Repository]](https://github.com/thhaase/Tutorium_Statistik_1_Ersatzaufgaben) [[Preview]](https://thhaase.github.io/Tutorium_Statistik_1_Ersatzaufgaben/)
+- 📝 A few Tutorialtasks for Intro-Statistics [[Repository]](https://github.com/thhaase/Tutorium_Statistik_1_Ersatzaufgaben) [[Preview]](https://thhaase.github.io/Tutorium_Statistik_1_Ersatzaufgaben/)
 - Gießen Seminar Projects:
   - 📍 Sustainable Spots in Giessen Map [[Repository]](https://github.com/thhaase/interactive_map) [[Preview]](https://thhaase.github.io/interactive_map/)  
   - 📊 Mini-Survey Dashboard (I didn't do the Survey) [[Repository]](https://github.com/thhaase/kiana_interactive_quarto_dashboard) [[Preview]](https://thhaase.github.io/kiana_interactive_quarto_dashboard/)
 
+## other Websites/Tools
+- ✅ Standardized Feedback Tool/Framework [[Repository]](https://github.com/thhaase/Bewertomat_3000) [[Preview]](https://thhaase.github.io/Bewertomat_3000/)
 
 ## Latex and Pandoc
 - 📄 Latex Template I use for my Assignments at Uni [[Repository]](https://github.com/thhaase/Latex-Template)
