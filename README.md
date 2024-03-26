@@ -7,23 +7,23 @@
 </details>
 
 ## R
-- 🎬️ Shiny Netflix History Dashboard <a href="https://github.com/thhaase/Netflix_History_Dashboard" target="_blank">Repository</a> | <a href="https://thhaase.github.io/R_Clientside_Shiny_Netflix_History/" target="_blank">Preview</a>
-- 💬 Letterboxed Scraper <a href="https://github.com/thhaase/R_Letterboxed" target="_blank">Repository</a>
-- 📋️ JLU Social Science Course Catalogue Scraper <a href="https://github.com/thhaase/JLU-evv-Scraper" target="_blank">Repository</a>
+- 🎬️ Shiny Netflix History Dashboard [[Repository]](https://github.com/thhaase/Netflix_History_Dashboard) [[Preview]](https://thhaase.github.io/R_Clientside_Shiny_Netflix_History/) 
+- 💬 Letterboxed Scraper [[Repository]](https://github.com/thhaase/R_Letterboxed)
+- 📋️ JLU Social Science Course Catalouge Scraper[[Repository]](https://github.com/thhaase/JLU-evv-Scraper)
 
 ## Quarto
-- 💻️ Quarto Homepage <a href="https://github.com/thhaase/Homepage" target="_blank">Repository</a> | <a href="https://www.thhaase.de" target="_blank">Preview</a>
-- 📝 A few Tutorialtasks for Intro-Statistics <a href="https://github.com/thhaase/Tutorium_Statistik_1_Ersatzaufgaben" target="_blank">Repository</a> | <a href="https://thhaase.github.io/Tutorium_Statistik_1_Ersatzaufgaben/" target="_blank">Preview</a>
+- 💻️ Quarto Homepage [[Repository]](https://github.com/thhaase/Homepage) [[Preview]](https://www.thhaase.de)
+- 📝 A few Tutorialtasks for Intro-Statistics [[Repository]](https://github.com/thhaase/Tutorium_Statistik_1_Ersatzaufgaben) [[Preview]](https://thhaase.github.io/Tutorium_Statistik_1_Ersatzaufgaben/)
 - Gießen Seminar Projects:
-  - 📍 Sustainable Spots in Giessen Map <a href="https://github.com/thhaase/interactive_map" target="_blank">Repository</a> | <a href="https://thhaase.github.io/interactive_map/" target="_blank">Preview</a>  
-  - 📊 Mini-Survey Dashboard (I didn't do the Survey) <a href="https://github.com/thhaase/kiana_interactive_quarto_dashboard" target="_blank">Repository</a> | <a href="https://thhaase.github.io/kiana_interactive_quarto_dashboard/" target="_blank">Preview</a>
+  - 📍 Sustainable Spots in Giessen Map [[Repository]](https://github.com/thhaase/interactive_map) [[Preview]](https://thhaase.github.io/interactive_map/)  
+  - 📊 Mini-Survey Dashboard (I didn't do the Survey) [[Repository]](https://github.com/thhaase/kiana_interactive_quarto_dashboard) [[Preview]](https://thhaase.github.io/kiana_interactive_quarto_dashboard/)
 
 ## other Websites/Tools
-- ✅ Standardized Feedback Tool/Framework <a href="https://github.com/thhaase/Bewertomat_3000" target="_blank">Repository</a> | <a href="https://thhaase.github.io/Bewertomat_3000/" target="_blank">Preview</a>
+- ✅ Standardized Feedback Tool/Framework [[Repository]](https://github.com/thhaase/Bewertomat_3000) [[Preview]](https://thhaase.github.io/Bewertomat_3000/)
 
 ## Latex and Pandoc
-- 📄 Latex Template I use for my Assignments at Uni <a href="https://github.com/thhaase/Latex-Template" target="_blank">Repository</a>
-- 📃 Zettlr Template LatexPDF <a href="https://github.com/thhaase/my_Zettlr_templates" target="_blank">Repository</a>
+- 📄 Latex Template I use for my Assignments at Uni [[Repository]](https://github.com/thhaase/Latex-Template)
+- 📃 Zettlr Template LatexPDF [[Repository]](https://github.com/thhaase/my_Zettlr_templates)
 
 
 ---
