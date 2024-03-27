@@ -13,6 +13,8 @@
 
 </div>
 
+---
+
 ### R
 - 🎬️ Shiny Netflix History Dashboard [[Repository]](https://github.com/thhaase/Netflix_History_Dashboard) [[Preview]](https://thhaase.github.io/R_Clientside_Shiny_Netflix_History/) 
 - 💬 Letterboxed Scraper [[Repository]](https://github.com/thhaase/R_Letterboxed)
