@@ -9,7 +9,7 @@
 ## R
 - 🎬️ Shiny Netflix History Dashboard [[Repository]](https://github.com/thhaase/Netflix_History_Dashboard) [[Preview]](https://thhaase.github.io/R_Clientside_Shiny_Netflix_History/) 
 - 💬 Letterboxed Scraper [[Repository]](https://github.com/thhaase/R_Letterboxed)
-- 📋️ JLU Social Science Course Catalouge Scraper[[Repository]](https://github.com/thhaase/JLU-evv-Scraper)
+- 📋️ JLU Social Science Course Catalouge Scraper [[Repository]](https://github.com/thhaase/JLU-evv-Scraper)
 
 ## Quarto
 - 💻️ Quarto Homepage [[Repository]](https://github.com/thhaase/Homepage) [[Preview]](https://www.thhaase.de)
