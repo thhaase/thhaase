@@ -9,7 +9,7 @@
   > _"[[Empiricism and statistics]] looks, if you look at it from the outside, like the production of a self-constructed certainty, like the production of a construction. If one analyzes it epistemologically, one would perhaps guess at an operative constructivism. On the other hand, empirical sociologists cannot forget to point out that their measurements are reality, so that reality is actually always behind the data. But you can't reach it directly either, otherwise you would duplicate what is already there, instead you want to use technologies to find out more about reality. But that's approaching from behind, from an unexplored reality."_ - Niklas Luhmann at his farewell lecture 1993  
 </details>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thhaase&layout=compact&hide=html,lua,rtf&exclude_repo=.vimrc,30DayChartChallenge_2024&theme=github_dark&hide_border=true&card_width=1000px&custom_title=)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thhaase&layout=compact&hide=javascript,css,html,lua,rtf&exclude_repo=.vimrc,30DayChartChallenge_2024&theme=github_dark&hide_border=true&card_width=1000px&custom_title=)
 
 </div>
 
