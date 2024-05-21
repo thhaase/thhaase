@@ -30,7 +30,7 @@
 ### other Websites/Tools
 - ✅ Standardized Feedback Tool/Framework [[Repository]](https://github.com/thhaase/Bewertomat_3000) [[Preview]](https://thhaase.github.io/Bewertomat_3000/)
 - 🔨 markdown2website Tool [[Repository]](https://github.com/thhaase/markdown2website) [[Preview]](https://thhaase.github.io/markdown2website/)
-- 💻️ Blog with my markdown2website Tool [[Repository]](https://github.com/thhaase/Blog) [[Previwe]](https://thhaase.github.io/Blog/)
+- 💻️ Blog with my markdown2website Tool [[Repository]](https://github.com/thhaase/Blog) [[Preview]](https://thhaase.github.io/Blog/)
   
 ### Latex and Pandoc
 - 📄 Latex Template I use for my Assignments at Uni [[Repository]](https://github.com/thhaase/Latex-Template)
