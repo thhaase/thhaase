@@ -21,7 +21,7 @@
 - 📋️ JLU Social Science Course Catalouge Scraper [[Repository]](https://github.com/thhaase/JLU-evv-Scraper)
 
 ### Quarto
-- 💻️ Quarto Homepage [[Repository]](https://github.com/thhaase/thhaase.github.io) [[Preview]](https://www.thhaase.github.io)
+- 💻️ Quarto Homepage [[Repository]](https://github.com/thhaase/thhaase.github.io) [[Preview]](https://thhaase.github.io)
 - 💡 Statistics for Social Scientists Tutorial Notes [[Reporitory]](https://github.com/thhaase/Tutorium_Wiederholung_Statistik_1) [[Preview]](https://thhaase.github.io/Tutorium_Wiederholung_Statistik_1/)
 - Gießen Seminar Projects:
   - 📍 Sustainable Spots in Giessen Map [[Repository]](https://github.com/thhaase/interactive_map) [[Preview]](https://thhaase.github.io/interactive_map/)
