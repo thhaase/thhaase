@@ -20,6 +20,10 @@
 - 💬 Letterboxed Scraper [[Repository]](https://github.com/thhaase/R_Letterboxed)
 - 📋️ JLU Social Science Course Catalouge Scraper [[Repository]](https://github.com/thhaase/JLU-evv-Scraper)
 
+### Python
+- ⚽️ Change in German news language during the EM (modules: whisper, pytube, textstat, pandas) [[Repository]](https://github.com/thhaase/tagesschau_em_languagelevel)
+
+  
 ### Quarto
 - 💻️ Quarto Homepage [[Repository]](https://github.com/thhaase/thhaase.github.io) [[Preview]](https://thhaase.github.io)
 - 💡 Statistics for Social Scientists Tutorial Notes [[Reporitory]](https://github.com/thhaase/Tutorium_Wiederholung_Statistik_1) [[Preview]](https://thhaase.github.io/Tutorium_Wiederholung_Statistik_1/)
