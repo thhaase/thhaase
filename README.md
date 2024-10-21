@@ -23,18 +23,19 @@
 ### Python
 - ⚽️ Change in German news language during the EM (whisper, pytube, textstat, pandas) [[Repository]](https://github.com/thhaase/tagesschau_em_languagelevel)
 
-  
 ### Quarto
 - 💻️ Quarto Homepage [[Repository]](https://github.com/thhaase/thhaase.github.io) [[Preview]](https://thhaase.github.io)
 - Gießen Seminar Projects:
   - 📍 Sustainable Spots in Giessen Map [[Repository]](https://github.com/thhaase/interactive_map) [[Preview]](https://thhaase.github.io/interactive_map/)
   - 📊 Mini-Survey Dashboard (I didn't do the Survey) [[Repository]](https://github.com/thhaase/kiana_interactive_quarto_dashboard) [[Preview]](https://thhaase.github.io/kiana_interactive_quarto_dashboard/)
+- 🧮 Statistics 1 Tutorial [[Repository]](https://github.com/thhaase/Tutorium_Wiederholung_Statistik_1/) [[Preview]](https://thhaase.github.io/Tutorium_Wiederholung_Statistik_1/)
 
 ### other Websites/Tools
 - ✅ Standardized Feedback Tool/Framework [[Repository]](https://github.com/thhaase/Bewertomat_3000) [[Preview]](https://thhaase.github.io/Bewertomat_3000/)
 - 📚️ Random Selection for Book/Reading-Clubs [[Repository]](https://github.com/thhaase/bookclub_bookselection) [[Preview]](https://thhaase.github.io/bookclub_bookselection)
 - 🔨 markdown2website Tool [[Repository]](https://github.com/thhaase/markdown2website) [[Preview]](https://thhaase.github.io/markdown2website/)
 - 💻️ Blog with my markdown2website Tool [[Repository]](https://github.com/thhaase/Blog) [[Preview]](https://thhaase.github.io/Blog/)
+- 🧮 Statistics 2 Tutorial [[Repository]](https://github.com/thhaase/Tutorium_Statistik_2/) [[Preview]](https://thhaase.github.io/Tutorium_Statistik_2/)
   
 ### Latex and Pandoc
 - 📄 Latex Template I use for my Assignments at Uni [[Repository]](https://github.com/thhaase/Latex-Template)
