@@ -24,7 +24,6 @@
 - ⚽️ Change in German news language during the EM (whisper, pytube, textstat, pandas) [[Repository]](https://github.com/thhaase/tagesschau_em_languagelevel)
 
 ### Quarto
-- 💻️ Quarto Homepage [[Repository]](https://github.com/thhaase/thhaase.github.io) [[Preview]](https://thhaase.github.io)
 - Gießen Seminar Projects:
   - 📍 Sustainable Spots in Giessen Map [[Repository]](https://github.com/thhaase/interactive_map) [[Preview]](https://thhaase.github.io/interactive_map/)
   - 📊 Mini-Survey Dashboard (I didn't do the Survey) [[Repository]](https://github.com/thhaase/kiana_interactive_quarto_dashboard) [[Preview]](https://thhaase.github.io/kiana_interactive_quarto_dashboard/)
