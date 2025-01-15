@@ -28,6 +28,7 @@
   - 📍 Sustainable Spots in Giessen Map [[Repository]](https://github.com/thhaase/interactive_map) [[Preview]](https://thhaase.github.io/interactive_map/)
   - 📊 Mini-Survey Dashboard (I didn't do the Survey) [[Repository]](https://github.com/thhaase/kiana_interactive_quarto_dashboard) [[Preview]](https://thhaase.github.io/kiana_interactive_quarto_dashboard/)
 - 🧮 Statistics 1 Tutorial [[Repository]](https://github.com/thhaase/Tutorium_Wiederholung_Statistik_1/) [[Preview]](https://thhaase.github.io/Tutorium_Wiederholung_Statistik_1/)
+- ✏️ Quarto Presentation Template [[Repository]](https://github.com/thhaase/Quarto-Presentation-Theme-fitting-my-Homepage) [[Preview]](https://thhaase.github.io/Quarto-Presentation-Theme-fitting-my-Homepage/)
 
 ### other Websites/Tools
 - ✅ Standardized Feedback Tool/Framework [[Repository]](https://github.com/thhaase/Bewertomat_3000) [[Preview]](https://thhaase.github.io/Bewertomat_3000/)
