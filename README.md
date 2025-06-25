@@ -16,6 +16,9 @@
 
 ---
 
+> [!IMPORTANT]
+> For a more focused insight into my projects please visit my [Homepage](https://thhaase.github.io/content.html)  
+
 ### Software
 - 👨‍💻 micro-editor plugin integrating an R-REPL [[Repository]](https://github.com/thhaase/micro-rrepl) 
 
